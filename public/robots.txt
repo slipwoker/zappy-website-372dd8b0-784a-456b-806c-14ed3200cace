@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://-372dd8b0.zappy5.app/sitemap.xml
+Sitemap: https://kovalehala.zappy5.app/sitemap.xml
